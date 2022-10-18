@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="ыва">
+    <file>background_auth.png</file>
+    <file>kik.qrc</file>
+    <file>start_send_button.png</file>
+    <file>Enter_btn.png</file>
+    <file>tg_hover.png</file>
+    <file>vk_hover.png</file>
+    <file>tg.png</file>
+    <file>telegram.png</file>
+    <file>image 1.png</file>
+    <file>sey-switch-b-58e13259d13cbfee5efe5248acfda88d.png</file>
+    <file>art.jpeg</file>
+    <file>hide_button.png</file>
+    <file>exit_button.png</file>
+  </qresource>
+</RCC>
